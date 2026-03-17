@@ -24,10 +24,10 @@ This theme mod comes with two different cursor sets and 3 different fonts, they 
 
 ## Credits : 
 
-Cursor set: "Evelution Anniversary Cursors"
-Author: hm-a-technologies
-Source: https://www.deviantart.com/hm-a-technologies/art/Evelution-Anniversary-Cursors-924691961
+Cursor set: "Evelution Anniversary Cursors"\
+Author: hm-a-technologies\
+Source: https://www.deviantart.com/hm-a-technologies/art/Evelution-Anniversary-Cursors-924691961\
 
-Opera GX Mod Template: "opera-gx-mods"     
-Author: mr-jamz
-Source: https://github.com/mr-jamz/opera-gx-mods
+Opera GX Mod Template: "opera-gx-mods"\  
+Author: mr-jamz\
+Source: https://github.com/mr-jamz/opera-gx-mods\
