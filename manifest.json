@@ -1,0 +1,116 @@
+{
+   "description": "A small accessibility theme for Opera GX that utilises the blue yellow colour pallete that is typically rare for colourblind people.",
+   "developer": {
+      "name": "Ryan-Ellis Dale"
+   },
+   "icons": {
+      "512": "icon_512.png"
+   },
+   "manifest_version": 3,
+   "mod": {
+      "payload": {
+         "app_icon": [ {
+            "id": "AppIcon",
+            "name": "Blue Yellow Accessibility GX",
+            "path": "app_icon/app_icon1.png"
+         } ],
+         "mobile_image_overrides": [ {
+            "id": "MobileImageOverrides",
+            "name": "Blue Yellow Accessibility GX",
+            "images": {
+               "start_page_logo": "mobile_logo/mobile_logo1.png"
+            }
+         } ],
+         "theme": [ {
+            "dark": {
+               "gx_accent": {
+                  "h": 45.06,
+                  "s": 100,
+                  "l": 51.96
+               },
+               "gx_secondary_base": {
+                  "h": 210.17,
+                  "s": 100,
+                  "l": 35.49
+               }
+            },
+            "id": "0",
+            "light": {
+               "gx_accent": {
+                  "h": 327,
+                  "s": 80,
+                  "l": 57
+               },
+               "gx_secondary_base": {
+                  "h": 6,
+                  "s": 15,
+                  "l": 25
+               }
+            },
+            "name": "Blue Yellow Accessibility GX"
+         } ],
+         "cursors": [ {
+            "id": "Cursors",
+            "items": [ {
+               "path": "cursors/move.cur",
+               "type": "MOVE"
+            }, {
+               "path": "cursors/default.cur",
+               "type": "POINTER"
+            }, {
+               "path": "cursors/ew_resize.cur",
+               "type": "EAST_WEST_RESIZE"
+            }, {
+               "path": "cursors/wait.cur",
+               "type": "WAIT"
+            }, {
+               "path": "cursors/cross.cur",
+               "type": "CROSS"
+            }, {
+               "path": "cursors/nesw_resize.cur",
+               "type": "NORTH_EAST_SOUTH_WEST_RESIZE"
+            }, {
+               "path": "cursors/ns_resize.cur",
+               "type": "NORTH_SOUTH_RESIZE"
+            }, {
+               "path": "cursors/nwse_resize.cur",
+               "type": "NORTH_WEST_SOUTH_EAST_RESIZE"
+            }, {
+               "path": "cursors/help.cur",
+               "type": "HELP"
+            }, {
+               "path": "cursors/progress.cur",
+               "type": "PROGRESS"
+            }, {
+               "path": "cursors/pointer.cur",
+               "type": "HAND"
+            }, {
+               "path": "cursors/i_beam.cur",
+               "type": "I_BEAM"
+            } ],
+            "name": "Blue Yellow Accessibility GX",
+            "preview": "icon_512.png"
+         } ],
+        "fonts": [ {
+            "body": {
+               "name": "Roboto",
+               "variants": [ {
+                  "path": "font/Roboto-Regular.ttf"
+               } ]
+            },
+            "header": {
+               "name": "Roboto-Bold",
+               "variants": [ {
+                  "path": "font/Roboto-Bold.ttf"
+               } ]
+            },
+            "id": "Fonts",
+            "name": "Blue Yellow Accessibility GX"
+         } ]
+      },
+      "schema_version": 2
+   },
+   "name": "Blue Yellow Accessibility GX",
+   "update_url": "https://api.gx.me/store/mods/update",
+   "version": "1.0"
+}
