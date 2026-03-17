@@ -37,58 +37,99 @@
             "id": "0",
             "light": {
                "gx_accent": {
-                  "h": 327,
-                  "s": 80,
-                  "l": 57
+                  "h": 206,
+                  "s": 77,
+                  "l": 40.2
                },
                "gx_secondary_base": {
-                  "h": 6,
-                  "s": 15,
-                  "l": 25
+                  "h": 35,
+                  "s": 94.1,
+                  "l": 52
                }
             },
             "name": "Blue Yellow Accessibility GX"
          } ],
          "cursors": [ {
-            "id": "Cursors",
+            "id": "CursorsDark",
             "items": [ {
-               "path": "cursors/move.cur",
+               "path": "cursors/dark/move.cur",
                "type": "MOVE"
             }, {
-               "path": "cursors/default.cur",
+               "path": "cursors/dark/default.cur",
                "type": "POINTER"
             }, {
-               "path": "cursors/ew_resize.cur",
+               "path": "cursors/dark/ew_resize.cur",
                "type": "EAST_WEST_RESIZE"
             }, {
-               "path": "cursors/wait.cur",
+               "path": "cursors/dark/wait.cur",
                "type": "WAIT"
             }, {
-               "path": "cursors/cross.cur",
+               "path": "cursors/dark/cross.cur",
                "type": "CROSS"
             }, {
-               "path": "cursors/nesw_resize.cur",
+               "path": "cursors/dark/nesw_resize.cur",
                "type": "NORTH_EAST_SOUTH_WEST_RESIZE"
             }, {
-               "path": "cursors/ns_resize.cur",
+               "path": "cursors/dark/ns_resize.cur",
                "type": "NORTH_SOUTH_RESIZE"
             }, {
-               "path": "cursors/nwse_resize.cur",
+               "path": "cursors/dark/nwse_resize.cur",
                "type": "NORTH_WEST_SOUTH_EAST_RESIZE"
             }, {
-               "path": "cursors/help.cur",
+               "path": "cursors/dark/help.cur",
                "type": "HELP"
             }, {
-               "path": "cursors/progress.cur",
+               "path": "cursors/dark/progress.cur",
                "type": "PROGRESS"
             }, {
-               "path": "cursors/pointer.cur",
+               "path": "cursors/dark/pointer.cur",
                "type": "HAND"
             }, {
-               "path": "cursors/i_beam.cur",
+               "path": "cursors/dark/i_beam.cur",
                "type": "I_BEAM"
             } ],
-            "name": "Blue Yellow Accessibility GX",
+            "name": "Blue Yellow Accessibility GX Dark",
+            "preview": "icon_512.png"
+         }, {
+            "id": "CursorsLight",
+            "items": [ {
+               "path": "cursors/light/move.cur",
+               "type": "MOVE"
+            }, {
+               "path": "cursors/light/default.cur",
+               "type": "POINTER"
+            }, {
+               "path": "cursors/light/ew_resize.cur",
+               "type": "EAST_WEST_RESIZE"
+            }, {
+               "path": "cursors/light/wait.cur",
+               "type": "WAIT"
+            }, {
+               "path": "cursors/light/cross.cur",
+               "type": "CROSS"
+            }, {
+               "path": "cursors/light/nesw_resize.cur",
+               "type": "NORTH_EAST_SOUTH_WEST_RESIZE"
+            }, {
+               "path": "cursors/light/ns_resize.cur",
+               "type": "NORTH_SOUTH_RESIZE"
+            }, {
+               "path": "cursors/light/nwse_resize.cur",
+               "type": "NORTH_WEST_SOUTH_EAST_RESIZE"
+            }, {
+               "path": "cursors/light/help.cur",
+               "type": "HELP"
+            }, {
+               "path": "cursors/light/progress.cur",
+               "type": "PROGRESS"
+            }, {
+               "path": "cursors/light/pointer.cur",
+               "type": "HAND"
+            }, {
+               "path": "cursors/light/i_beam.cur",
+               "type": "I_BEAM"
+            } ],
+            "name": "Blue Yellow Accessibility GX Light",
             "preview": "icon_512.png"
          } ],
         "fonts": [ {
@@ -104,9 +145,39 @@
                   "path": "font/Roboto-Bold.ttf"
                } ]
             },
-            "id": "Fonts",
-            "name": "Blue Yellow Accessibility GX"
-         } ]
+            "id": "Fonts0",
+            "name": "Blue Yellow Accessibility GX Roboto"
+         }, {
+            "body": {
+               "name": "Verdana",
+               "variants": [ {
+                  "path": "font/verdana.ttf"
+               } ]
+            },
+            "header": {
+               "name": "Verdana-Bold",
+               "variants": [ {
+                  "path": "font/verdana_bold.ttf"
+               } ]
+            },
+            "id": "Fonts1",
+            "name": "Blue Yellow Accessibility GX Verdana"
+         },  {
+            "body": {
+               "name": "Blender",
+               "variants": [ {
+                  "path": "font/blender-book.ttf"
+               } ]
+            },
+            "header": {
+               "name": "Blender-Bold",
+               "variants": [ {
+                  "path": "font/blender-bold.ttf"
+               } ]
+            },
+            "id": "Fonts2",
+            "name": "Blue Yellow Accessibility GX Blender"
+         }]
       },
       "schema_version": 2
    },
