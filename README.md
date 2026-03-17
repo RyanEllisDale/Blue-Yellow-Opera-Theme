@@ -10,7 +10,8 @@ This theme comes in both light and dark modes.
 
 ## Installation : 
 
-1. Go into Opera GX's Extensions Page ( You can find it in the sidebar or by going into settings at switching to the extensions at the top. )
+1. Go into Opera GX's Extensions Page 
+    ( You can find it in the sidebar or by going into settings at switching to the extensions at the top. )
 2. Turn on Developer Mode
 3. Extract the theme from the zip
 4. Click load unpacked and select the Blue Yellow Opera Theme folder ( with the manifest.json in it )
